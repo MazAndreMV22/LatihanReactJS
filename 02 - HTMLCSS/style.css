@@ -1,0 +1,84 @@
+nav {
+    display:flex;
+    background-color: white;
+    padding: 10px;
+}
+
+
+body {
+    margin: 0px;
+    background-image: url(../Assets/pattern.png);
+}
+h3{
+    color: brown;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    color: white;
+    display: inline;
+    margin-right: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+main {
+    margin: 30px 150px 40px;
+    padding: 30px ;
+    background-color:white;
+
+}
+
+h1{
+    text-align: center;
+}
+
+article{
+    margin-top: 60px ;
+    border-bottom:10px solid black ;
+}
+
+footer{
+    
+    background-color: black;
+    padding: 10px;
+}
+
+h5{  
+    color: white;
+    text-align: center;
+
+}
+.button {
+    display: inline-block;
+    width: 100%;
+    margin-top: 20px;
+    height: 40px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #A149FA;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .button:hover {background-color: #A149FA}
+  
+  .button:active {
+    background-color: #A149FA;
+    box-shadow: 0 3px #666;
+    transform: translateY(4px);
+  }
+
+
