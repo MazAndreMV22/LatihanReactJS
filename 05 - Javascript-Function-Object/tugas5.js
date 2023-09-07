@@ -87,7 +87,7 @@ console.log(objOutput)
 
 */
 
-/* Soal 9
+// Soal 9
 
 let mobil = [{
   merk : "bmw",
@@ -101,6 +101,6 @@ let mobil = [{
   }
   functionObject(); 
 
-  */
+  
 
   
