@@ -13,8 +13,8 @@ const App = () => {
     {/*<Tugas6 />*/}
      {/*<Tugas7 name="ANDRE RUKMANA" batch="36" email="mazandrerukmana22@gmail.com"/>*/}
      {/*<Tugas8 />*/}
-   <Tugas9 />
-     {/*<Tugas10 />*/}
+   {/*<Tugas9 />*/}
+     <Tugas10 />
     
     </>
   )
